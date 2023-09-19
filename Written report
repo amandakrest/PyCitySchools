@@ -1,0 +1,21 @@
+Summary of Analysis
+  Based on two different data sets, school data, and student data, I analyzed the budget, reading, and math grades, size, and type of school.   
+  The analysis looked at each level of the school system beginning at the district, then narrowing it down to school, grade, and then to scores. 
+  The district summary looked at the district as a whole, which included total number of students, total budget, average grade for math and reading along with the percent of students who passed math, who passed reading and the overall passing rate. 
+The school summary looked at each school individually. For each school the summary included: School Type,	Total Students,	Total School Budget,	Per Student Budget,	Average Math Score,	Average Reading Score,	% Passing Math,	% Passing Reading, and	% Overall Passing.
+Along with an overall summary of schools, I also compared the highest-performing schools and the lowest-performing schools based on how many students passed both math and reading. 
+After looking at the schools overall, we broke the average reading and average math scores by 9th, 10th, 11th and 12th grade.
+Schools were then grouped by spending per capita(total students/total budget) and size (separately), then analyzed those groups using the average scores and passing percentages. 
+Lastly the average scores and passing percentages were compared based on school type (district or charter)
+
+Two Conclusions
+
+- Based on the highest and lowest performing schools, the budget per capita and total budget have little effect on the performance, although whether the school type is district or charter 
+seems to play a big part for all the highest performing schools were charter schools and all the lowest performing schools were district schools. This is also seen in the Scores by School Type datagram
+were for all 5 score analyses the charter schools had higher numbers. This may have to do with the fact that all the district schools are larger schools were as the charter schools are small or
+medium schools, except for one (based on size).
+
+
+- Overall, the schools of the district have higher reading scores than math scores. But the charter schools have much closer average scores than district schools. 
+
+  
